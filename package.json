@@ -1,0 +1,26 @@
+{
+  "name": "immutable-collection",
+  "version": "0.1.0",
+  "description": "A serie of immutable collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "immutable",
+    "collection",
+    "data",
+    "structure"
+  ],
+  "author": "olivier morel",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.x",
+    "gulp-debug": "^2.1.x",
+    "gulp-inject": "^1.5.0",
+    "gulp-sourcemaps": "^1.5.x",
+    "gulp-tslint": "^3.2.x",
+    "gulp-typescript": "^2.8.x"
+  }
+}
